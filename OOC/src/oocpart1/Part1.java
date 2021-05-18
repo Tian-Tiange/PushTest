@@ -11,6 +11,9 @@ public class Part1 {
     public static void main(String[] args) {
         Person p = new Person(15);
         System.out.println(p);
+        System.out.println(p);
+        System.out.println(p);
+        System.out.println(p);
     }
 }
 class Person{
